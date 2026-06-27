@@ -1,0 +1,69 @@
+# Documentatie Index
+
+## Hoofddocumenten
+
+- README.md
+- PROJECT_VISION.md
+- MISSION.md
+- VISION.md
+- BUSINESS_MODEL.md
+- ARCHITECTURE.md
+- TECH_STACK.md
+
+## Database
+
+- DATABASE.md
+- SUPABASE.md
+- DATA_MODEL.md
+
+## UI
+
+- DESIGN_SYSTEM.md
+- COMPONENT_LIBRARY.md
+- UI_GUIDELINES.md
+
+## Modules
+
+- DASHBOARD.md
+- EMPLOYEES.md
+- CLIENTS.md
+- LOCATIONS.md
+- CONTRACTS.md
+- PLANNING.md
+- TIME_REGISTRATION.md
+- WEEKLY_TIMESHEETS.md
+- DOCUMENTS.md
+- PAYSLIPS.md
+- ACCOUNTING_EXPORT.md
+- ROLES_PERMISSIONS.md
+- SETTINGS.md
+
+## Integraties
+
+- MAKE.md
+- N8N.md
+- API_SPECIFICATION.md
+- WEBHOOKS.md
+
+## Development
+
+- AI_DEVELOPMENT_STANDARDS.md
+- LOVABLE_BUILD_SPECIFICATION.md
+- MIGRATION_CODEX_TO_LOVABLE.md
+- CODE_STANDARDS.md
+- TESTING.md
+
+## Security
+
+- SECURITY.md
+- AUTHORIZATION.md
+
+## Operations
+
+- DEPLOYMENT.md
+- BACKUP_MONITORING.md
+
+## Commercial
+
+- PRICING_PACKAGES.md
+- IMPLEMENTATION_MODEL.md
